@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://arimasaki.github.io</id>
+    <title>莱莎日记</title>
+    <updated>2022-07-17T08:28:41.901Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://arimasaki.github.io"/>
+    <link rel="self" href="http://arimasaki.github.io/atom.xml"/>
+    <subtitle>记录着自己的成长历程</subtitle>
+    <logo>http://arimasaki.github.io/images/avatar.png</logo>
+    <icon>http://arimasaki.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 莱莎日记</rights>
+    <entry>
+        <title type="html"><![CDATA[旗下网站]]></title>
+        <id>http://arimasaki.github.io/post/1/</id>
+        <link href="http://arimasaki.github.io/post/1/">
+        </link>
+        <updated>2021-04-05T15:45:37.000Z</updated>
+        <content type="html"><![CDATA[<p>莱莎的小世界（旗下网站指引）   http://www.raizasudio.com/<br>
+柠檬茶茶楽（引导页）   http://www.acgyzsj.top/<br>
+ACG御宅世界导航 http://www.acgyzsj.top/acg/<br>
+Gothic Lolita    http://www.gslolita.xyz/<br>
+柠檬茶茶楽资源网 http://www.raizasudio.com/iris/</p>
+]]></content>
+    </entry>
+</feed>
